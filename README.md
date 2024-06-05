@@ -1,2 +1,3 @@
 # dave-ishii-blog
-My personal blog draft
+Personal HP
+https://www.ishiid.com
